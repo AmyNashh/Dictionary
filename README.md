@@ -1,7 +1,7 @@
 # Dictionary
 
-My project "Dictionary Project" has a folder named "textfiles", in which there are seven 
-books, a dictionary csv file and a stopwords textfile. 
+An indexing API in Java that allows a word index to be created from an e-book. The index contains a list of words that relate to the page numbers they appear on and the definition of the word. My project "Dictionary Project" has a folder named "textfiles", in which there are seven books, a dictionary csv file and a stopwords textfile. 
+
 It also contains 6 classes;
 - Dictionary:
   This class parses a complete dictionary into a HashMap called dictionary (O(1) time)
